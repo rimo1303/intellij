@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="Feed" type="CLASS" />
+      <mapping pattern="開発におけるメモ" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
