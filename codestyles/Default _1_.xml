@@ -1,0 +1,9 @@
+<code_scheme name="Default (1)">
+  <SqlCodeStyleSettings>
+    <option name="NEW_LINE_BEFORE_JOIN_CONDITION" value="true" />
+    <option name="NEW_LINE_BEFORE_COMMA" value="true" />
+    <option name="NEW_LINE_BEFORE_QUERY_INSIDE_PARENTHESIS" value="true" />
+    <option name="NEW_LINE_BEFORE_QUERY_INSIDE_DML" value="true" />
+    <option name="INDENT_SELECT_INTO_CLAUSE" value="true" />
+  </SqlCodeStyleSettings>
+</code_scheme>
